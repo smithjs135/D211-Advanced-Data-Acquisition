@@ -7,3 +7,8 @@
      *  Hospital dataset
      *  Census data
 * 
+
+
+![alt text](https://github.com/smithjs135/StoryPoint4.png "Readmission by County")
+![alt text](https://github.com/smithjs135/StoryPoint4.png "Readmission by County")
+![alt text](https://github.com/smithjs135/StoryPoint4.png "Readmission by County")
