@@ -9,5 +9,5 @@
 * 
 
 
-![alt text](https://github.com/smithjs135/D211-Advanced-Data-Acquisition/blob/main/README/StoryPoint4.png "Readmission by County")
+![alt text]([https://github.com/smithjs135/D211-Advanced-Data-Acquisition/blob/main/StoryPoint4.png "Readmission by County")
 
