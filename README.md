@@ -10,4 +10,8 @@
 
 
 ![alt text](https://github.com/smithjs135/D211-Advanced-Data-Acquisition/blob/main/StoryPoint4.png "Readmission by County")
+![alt text](https://github.com/smithjs135/D211-Advanced-Data-Acquisition/blob/main/StoryPoint5.png "Ethnicity vs. Initial Days")
+![alt text](https://github.com/smithjs135/D211-Advanced-Data-Acquisition/blob/main/StoryPoint6.png "Services")
+
+
 
